@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Business Plan",
+      "price": 500,
+      "features": [
+        "5 Brand Monitors",
+        "12 Month fixed price",
+        "Transmission charge",
+        "Marketing strategy",
+        "Free server domain"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Business Plan",
+      "price": 450,
+      "features": [
+        "5 Brand Monitors",
+        "12 Month fixed price",
+        "Transmission charge",
+        "Marketing strategy",
+        "Free server domain"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Business Plan",
+      "price": 300,
+      "features": [
+        "5 Brand Monitors",
+        "12 Month fixed price",
+        "Transmission charge",
+        "Marketing strategy",
+        "Free server domain"
+      ]
+    }
+  ]
+  
